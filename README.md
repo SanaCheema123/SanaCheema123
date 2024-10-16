@@ -2,7 +2,7 @@
 
 ## Social Links:
 - 👥 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/sanacheemamachinelearninggenerativeaai/)
-- 🐙 **GitHub**: [Follow on GitHub](https://github.com/Pythondeveloper6)
+- 🐙 **GitHub**: [Follow on GitHub](https://github.com/SanaCheema123)
 
 ## About Me:
 👨‍🎓 **Ph.D. Scholar**  
